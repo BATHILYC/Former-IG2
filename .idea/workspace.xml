@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="723241fe-c63a-4a00-934f-905c580ec84e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BanqueIntec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/CompteEpargne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/ComptePayant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/CompteSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entites/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principales/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3DA6N5UMzumMyctxSYJ8LZojon2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">

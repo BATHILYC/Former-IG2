@@ -76,7 +76,7 @@ public class Main {
         Personne p2= new Personne(2,"Toure","Mata",22,"Kati","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
         Personne p3= new Personne(3,"Maiga","Fanta",14,"Segou","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
         Personne p4= new Personne(4,"Kamaté","Baba",18,"Kidal","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
-        Personne p5= new Personne(5,"Zouboye","Amar",25,"Niamakorocourani","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
+        Personne p5= new Personne(6,"Zouboye","Amar",25,"Niamakorocourani","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
         System.out.println(p1.toString());
         System.out.println(p2.toString());
         System.out.println(p3.toString());
