@@ -58,6 +58,9 @@ public class Main {
         System.out.println(CPS5.toString());
         System.out.println(CPS6.toString());
 
+
+
+
         Personne p1= new Personne(1,"Kane","Boureima",18,"Kalaban","82821463",new Date(),new Date(),new Date(),new Date(),new Date());
         Personne p2= new Personne(2,"Toure","Mata",22,"Kati","76821463",new Date(),new Date(),new Date(),new Date(),new Date());
         Personne p3= new Personne(3,"Maiga","Fanta",14,"Segou","85821463",new Date(),new Date(),new Date(),new Date(),new Date());
