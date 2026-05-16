@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="723241fe-c63a-4a00-934f-905c580ec84e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Entites/View/Personne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/AffichageCompte.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principales/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principales/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entites/Compte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entites/Compte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/View/PersonneForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/PersonneForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AffichageCompte.executor": "Run",
+    "Application.CompteForm.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PersonneForm.executor": "Run",
     "Application.ViewForm.executor": "Run",
     "Application.personneForm.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -59,5 +63,17 @@
       <updated>1777712488499</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Entites/Compte.java</url>
+          <line>9</line>
+          <properties field="createdDate" class="Entites.Compte" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
