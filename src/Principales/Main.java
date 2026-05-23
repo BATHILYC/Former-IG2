@@ -71,5 +71,17 @@ public class Main {
         System.out.println(p3.toString());
         System.out.println(p4.toString());
         System.out.println(p5.toString());
+
+
+        Agence A1= new Agence(1, "AIR MALI", "MALI", "85828282", "boureimabamoulaye@gmail.com", 200);
+        Agence A2= new Agence(2, "AIR SENEGAL", "SENEGAL", "855588282", "boureimabamoulaye@gmail.com", 200);
+        Agence A3= new Agence(3, "AIR MAURITANIE", "MAURITANIE", "82827444", "boureimabamoulaye@gmail.com", 200);
+        Agence A4= new Agence(4, "AIR FRANCE", "FRANCE", "82828585", "boureimabamoulaye@gmail.com", 200);
+        Agence A5= new Agence(5, "AIR BOUNGI", "BOUNGI", "82828282", "boureimabamoulaye@gmail.com", 200);
+        System.out.println(A1.toString());
+        System.out.println(A2.toString());
+        System.out.println(A3.toString());
+        System.out.println(A4.toString());
+        System.out.println(A5.toString());
     }
 }

@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.util.Date;
 
-public class AffichageCompte extends JFrame {
+public class CompteForm extends JFrame {
     private JTextField txtCode;
     private JTextField txtSolde;
     private JLabel lblCode;
@@ -13,7 +13,7 @@ public class AffichageCompte extends JFrame {
     private JLabel lblDateCreation;
     private JLabel lblDateModification;
 
-    public AffichageCompte() {
+    public CompteForm() {
 
         setTitle("Gestion Compte");
         setSize(500, 350);
@@ -80,7 +80,7 @@ public class AffichageCompte extends JFrame {
 
         SwingUtilities.invokeLater(() -> {
 
-            new AffichageCompte().setVisible(true);
+            new CompteForm().setVisible(true);
 
         });
     }
